@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_1_Example_1", "WindowsFormsApp1\Chapter_1_Example_1.csproj", "{9AE09912-12DD-4189-90D2-692AB9D1FF3C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_1_Example_1", "Chapter_1_Example_1\Chapter_1_Example_1.csproj", "{9AE09912-12DD-4189-90D2-692AB9D1FF3C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chapter_1_Example_2", "Chapter_1_Example_2\Chapter_1_Example_2.csproj", "{E2320495-D82C-4C94-8AEE-E825CA6DDA1D}"
 EndProject
